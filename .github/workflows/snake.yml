@@ -1,0 +1,40 @@
+# OPTIONAL BONUS — animated "snake" that eats your contribution graph.
+#
+# Setup (2 steps):
+# 1. In your BetterCallEkangsh/BetterCallEkangsh repo, create this file at:
+#       .github/workflows/snake.yml
+# 2. Push it. It will auto-run and create an "output" branch with the SVG.
+#    Then add this line anywhere in README.md:
+#       ![snake](https://raw.githubusercontent.com/BetterCallEkangsh/BetterCallEkangsh/output/github-contribution-grid-snake-dark.svg)
+
+name: generate animated snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs once a day
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: generate snake.svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: BetterCallEkangsh
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+
+      - name: push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
