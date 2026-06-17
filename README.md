@@ -12,7 +12,3 @@ I'm currently working on a ML based projects and moving towards <br>I'm looking 
 ![](https://streak-stats.demolab.com/?user=BetterCallEkangsh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=BetterCallEkangsh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=BetterCallEkangsh&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
