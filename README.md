@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a ML based projects and moving towards <br>I'm looking to collaborate on data analytics and science problems<br>I'm looking for help with MLOps / deploying ML models, and advanced Power BI DAX<br>I'm currently learning DL, advanced SQL, and Generative AI<br>Ask me about SQL, Power BI dashboards, Python for data analytics, or CFD/aerodynamics simulation (Ansys Fluent, SolidWorks)<br>Fun fact: I placed 6th globally in the design report at SAE Aero Design West 2025, and I still run 3km daily on a hilly campus route.
+I'm currently working on a ML based projects and moving towards Generative AI. <br>I'm looking to collaborate on data analytics and science problems<br>I'm looking for help with MLOps / deploying ML models, and advanced Power BI DAX<br>I'm currently learning DL, advanced SQL, and Generative AI<br>Ask me about SQL, Power BI dashboards, Python for data analytics, or CFD/aerodynamics simulation (Ansys Fluent, SolidWorks)<br>Fun fact: I placed 6th globally in the design report at SAE Aero Design West 2025, and I still run 3km daily on a hilly campus route.
 
 
 ## 🌐 Socials:
