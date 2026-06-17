@@ -119,3 +119,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>
 
 </div>
+
+![snake](https://raw.githubusercontent.com/BetterCallEkangsh/BetterCallEkangsh/output/github-contribution-grid-snake-dark.svg)
