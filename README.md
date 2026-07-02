@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hi,%20I'm%20Ekangsh%20👋&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analytics%20%C3%97%20Machine%20Learning%20%C3%97%20Aerodynamics&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/BetterCallEkangsh">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+clear+decisions;B.Tech+in+Production+%26+Industrial+Engineering;SQL+%7C+Power+BI+%7C+Python+%7C+Machine+Learning+%7C+SQL;Correlation+is+not+causation+but+it+sure+is+a+hint;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+clear+decisions;B.Tech+in+Production+%26+Industrial+Engineering;SQL+%7C+Power+BI+%7C+Python+%7C+Machine+Learning+%7C;Correlation+is+not+causation+but+it+sure+is+a+hint+-+Edward+Tufte;" alt="Typing SVG" />
 </a>
 
 <br/>
