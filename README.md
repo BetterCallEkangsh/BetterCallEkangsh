@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hi,%20I'm%20Ekangsh%20👋&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analytics%20%C3%97%20Machine%20Learning%20%C3%97%20Aerodynamics&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hi,%20I'm%20Ekangsh%20👋&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analytics%20%C3%97%20Machine%20Learning%20%C3%97%20&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/BetterCallEkangsh">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+clear+decisions;B.Tech+in+Production+%26+Industrial+Engineering;SQL+%7C+Power+BI+%7C+Python+%7C+Machine+Learning;Correlation+is+not+causation+but+it+sure+is+a+hint;" alt="Typing SVG" />
@@ -26,7 +26,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://instagram.com/eknns" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="https://www.instagram.com/ekknns/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 <a href="https://linkedin.com/in/EkangshSah" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sekangsh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
